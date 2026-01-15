@@ -1,3 +1,6 @@
 Hello from the main branch
 
-Add feature-c (hold on, I'm still working on it...)
+Add feature-a
+
+new code that makes feature-b work! 
+Add feature-b
